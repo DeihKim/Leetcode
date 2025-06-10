@@ -9,4 +9,5 @@ class Solution(object):
             current = arr[i]
             arr[i] = maxRight
             maxRight = max(maxRight, current)
+        
         return arr
