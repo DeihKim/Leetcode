@@ -1,34 +1,34 @@
-# Ã°ÂÂÂ My LeetCode Journey
+# ÃÂ°ÃÂÃÂÃÂ My LeetCode Journey
 
-Welcome to my **LeetCode Submissions** repository Ã¢ÂÂ a space where I challenge myself daily to grow as a problem solver and future data scientist.
+Welcome to my **LeetCode Submissions** repository ÃÂ¢ÃÂÃÂ a space where I challenge myself daily to grow as a problem solver and future data scientist.
 
-## Ã°ÂÂÂ± Why This Repository?
+## ÃÂ°ÃÂÃÂÃÂ± Why This Repository?
 
 This repo is my commitment to:
 
-* Ã°ÂÂÂ **Consistency** Ã¢ÂÂ Solving LeetCode problems daily to build strong habits
-* Ã°ÂÂ§Â  **Learning** Ã¢ÂÂ Deepening my understanding of data structures and algorithms
-* Ã°ÂÂÂ¼ **Interview Prep** Ã¢ÂÂ Getting ready for coding interviews, one question at a time
-* Ã¢ÂÂ¨ **Inspiration** Ã¢ÂÂ Encouraging others like me to start their own journey
+* ÃÂ°ÃÂÃÂÃÂ **Consistency** ÃÂ¢ÃÂÃÂ Solving LeetCode problems daily to build strong habits
+* ÃÂ°ÃÂÃÂ§ÃÂ  **Learning** ÃÂ¢ÃÂÃÂ Deepening my understanding of data structures and algorithms
+* ÃÂ°ÃÂÃÂÃÂ¼ **Interview Prep** ÃÂ¢ÃÂÃÂ Getting ready for coding interviews, one question at a time
+* ÃÂ¢ÃÂÃÂ¨ **Inspiration** ÃÂ¢ÃÂÃÂ Encouraging others like me to start their own journey
 
-## Ã°ÂÂ§Â° Languages Used
+## ÃÂ°ÃÂÃÂ§ÃÂ° Languages Used
 
-All problems are currently solved in **Python** Ã°ÂÂÂ.
-I may start incorporating **Java** Ã¢ÂÂ and **C** Ã°ÂÂÂ§ in the future for practice and versatility.
+All problems are currently solved in **Python** ÃÂ°ÃÂÃÂÃÂ.
+I may start incorporating **Java** ÃÂ¢ÃÂÃÂ and **C** ÃÂ°ÃÂÃÂÃÂ§ in the future for practice and versatility.
 
-## Ã°ÂÂÂ¯ The Goal
+## ÃÂ°ÃÂÃÂÃÂ¯ The Goal
 
 Solve a little every day. Learn a little every day. Improve a little every day.
-ThatÃ¢ÂÂs the mission.
+ThatÃÂ¢ÃÂÃÂs the mission.
 
 ---
 
-> *Ã¢ÂÂSuccess is the sum of small efforts, repeated day in and day out.Ã¢ÂÂ* Ã¢ÂÂ Robert Collier
+> *ÃÂ¢ÃÂÃÂSuccess is the sum of small efforts, repeated day in and day out.ÃÂ¢ÃÂÃÂ* ÃÂ¢ÃÂÃÂ Robert Collier
 
 ---
 
-Ã°ÂÂÂ *If you're reading this and thinking about starting, this is your sign.*
-LetÃ¢ÂÂs grow together.
+ÃÂ°ÃÂÃÂÃÂ *If you're reading this and thinking about starting, this is your sign.*
+LetÃÂ¢ÃÂÃÂs grow together.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -36,11 +36,13 @@ LetÃ¢ÂÂs grow together.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Counting
 |  |
@@ -55,4 +57,5 @@ LetÃ¢ÂÂs grow together.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
