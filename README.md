@@ -1,8 +1,8 @@
-# 📚 My LeetCode Journey
+# ð My LeetCode Journey
 
 Welcome to my **LeetCode Submissions** repository, a space where I challenge myself daily to grow as a problem solver and future data scientist.
 
-## 💡 Why This Repository?
+## ð¡ Why This Repository?
 
 This repo is my commitment to:
 
@@ -11,12 +11,12 @@ This repo is my commitment to:
 * **Interview Prep** - Getting ready for coding interviews, one question at a time
 * **Inspiration** - Encouraging others like me to start their own journey
 
-## 🌐 Languages Used
+## ð Languages Used
 
 All problems are currently solved in **Python**.  
 I may start incorporating **Java** and **C** in the future for practice and versatility.
 
-## 🎯 The Goal
+## ð¯ The Goal
 
 Solve a little every day. Learn a little every day. Improve a little every day.  
 That's the mission.
@@ -27,7 +27,7 @@ That's the mission.
 
 ---
 
-✨ *If you're reading this and thinking about starting, this is your sign.*  
+â¨ *If you're reading this and thinking about starting, this is your sign.*  
 Let's grow together.
 
 <!---LeetCode Topics Start-->
@@ -41,6 +41,7 @@ Let's grow together.
 | [0219-contains-duplicate-ii](https://github.com/DeihKim/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Let's grow together.
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Let's grow together.
 | [0136-single-number](https://github.com/DeihKim/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
