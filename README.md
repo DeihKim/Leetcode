@@ -1,15 +1,15 @@
 # 📚 My LeetCode Journey
 
-Welcome to my **LeetCode Submissions** repositoryâa space where I challenge myself daily to grow as a problem solver and future data scientist.
+Welcome to my **LeetCode Submissions** repository, a space where I challenge myself daily to grow as a problem solver and future data scientist.
 
 ## 💡 Why This Repository?
 
 This repo is my commitment to:
 
-* **Consistency** â Solving LeetCode problems daily to build strong habits
-* **Learning** â Deepening my understanding of data structures and algorithms
-* **Interview Prep** â Getting ready for coding interviews, one question at a time
-* **Inspiration** â Encouraging others like me to start their own journey
+* **Consistency** - Solving LeetCode problems daily to build strong habits
+* **Learning** - Deepening my understanding of data structures and algorithms
+* **Interview Prep** - Getting ready for coding interviews, one question at a time
+* **Inspiration** - Encouraging others like me to start their own journey
 
 ## 🌐 Languages Used
 
@@ -19,16 +19,16 @@ I may start incorporating **Java** and **C** in the future for practice and vers
 ## 🎯 The Goal
 
 Solve a little every day. Learn a little every day. Improve a little every day.  
-Thatâs the mission.
+That's the mission.
 
 ---
 
-> *"Success is the sum of small efforts, repeated day in and day out."* â Robert Collier
+> *"Success is the sum of small efforts, repeated day in and day out."* - Robert Collier
 
 ---
 
-â¨ *If you're reading this and thinking about starting, this is your sign.*  
-Letâs grow together.
+✨ *If you're reading this and thinking about starting, this is your sign.*  
+Let's grow together.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
