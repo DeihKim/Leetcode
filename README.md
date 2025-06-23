@@ -1,8 +1,8 @@
-# ð My LeetCode Journey
+# My LeetCode Journey
 
 Welcome to my **LeetCode Submissions** repository, a space where I challenge myself daily to grow as a problem solver and future data scientist.
 
-## ð¡ Why This Repository?
+## Why This Repository?
 
 This repo is my commitment to:
 
@@ -11,12 +11,12 @@ This repo is my commitment to:
 * **Interview Prep** - Getting ready for coding interviews, one question at a time
 * **Inspiration** - Encouraging others like me to start their own journey
 
-## ð Languages Used
+## Languages Used
 
 All problems are currently solved in **Python**.  
 I may start incorporating **Java** and **C** in the future for practice and versatility.
 
-## ð¯ The Goal
+## The Goal
 
 Solve a little every day. Learn a little every day. Improve a little every day.  
 That's the mission.
@@ -27,7 +27,7 @@ That's the mission.
 
 ---
 
-â¨ *If you're reading this and thinking about starting, this is your sign.*  
+*If you're reading this and thinking about starting, this is your sign.*  
 Let's grow together.
 
 <!---LeetCode Topics Start-->
