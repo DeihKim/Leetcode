@@ -43,6 +43,7 @@ Let's grow together.
 | [0414-third-maximum-number](https://github.com/DeihKim/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/DeihKim/Leetcode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/DeihKim/Leetcode/tree/master/0605-can-place-flowers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -118,6 +119,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DeihKim/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/DeihKim/Leetcode/tree/master/0605-can-place-flowers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
