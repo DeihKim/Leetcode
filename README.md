@@ -51,6 +51,7 @@ Let's grow together.
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DeihKim/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -70,6 +71,7 @@ Let's grow together.
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/DeihKim/Leetcode/tree/master/0455-assign-cookies) |
@@ -97,6 +99,7 @@ Let's grow together.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [0961-long-pressed-name](https://github.com/DeihKim/Leetcode/tree/master/0961-long-pressed-name) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
