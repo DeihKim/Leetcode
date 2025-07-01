@@ -46,6 +46,7 @@ Let's grow together.
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/DeihKim/Leetcode/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeihKim/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -60,6 +61,7 @@ Let's grow together.
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
+| [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
