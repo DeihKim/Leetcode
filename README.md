@@ -54,6 +54,7 @@ Let's grow together.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Let's grow together.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
