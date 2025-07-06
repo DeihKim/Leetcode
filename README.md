@@ -101,6 +101,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -145,4 +146,12 @@ Let's grow together.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
