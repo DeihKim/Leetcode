@@ -13,8 +13,6 @@ class Solution(object):
                 nums.remove(cards[left])
                 left += 1
             nums.add(cards[right])
-            right += 1
-        if minCards == float('inf'):
-            return -1
-        return minCards
+        
+        return minCards if minCards != float('inf') else -1
             
