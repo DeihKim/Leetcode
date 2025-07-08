@@ -5,6 +5,24 @@ class Solution(object):
         :type c: str
         :rtype: List[int]
         """
+        n = len(s)
+        ans = [0] * n
+        cIndex = -float('inf')
+        for i in range(n):
+            if s[i] == c:
+                cIndex = i
+            ans[i] = i - cIndex
+        
+        cIndex = float('inf')
+        for i in range(n - 1, -1, -1):
+            if s[i] == c:
+                cIndex = i
+            ans[i] = min(ans[i], cIndex - i)
+        return ans
+
+        '''
+        Original
+
         indices = []
         n = len(s)
         for i in range(n):
@@ -20,3 +38,4 @@ class Solution(object):
             ans.append(minDis)
             i += 1
         return ans
+        '''
