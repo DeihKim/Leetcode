@@ -52,6 +52,7 @@ Let's grow together.
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -72,6 +73,7 @@ Let's grow together.
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +137,7 @@ Let's grow together.
 | [0961-long-pressed-name](https://github.com/DeihKim/Leetcode/tree/master/0961-long-pressed-name) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
+| [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
