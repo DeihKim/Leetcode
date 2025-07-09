@@ -5,7 +5,20 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-
+        freqncy = {}
+        for num in nums:
+            if num in freqncy:
+                freqncy[num] += 1
+            else:
+                freqncy[num] = 1
+        
+        count = 0
+        for num in nums:
+            if num + k in freqncy:
+                count += freqncy[num + k]
+        return count
+        
+        '''
         seen = defaultdict(int)
         count = 0
         for num in nums:
@@ -15,6 +28,7 @@ class Solution(object):
             count += seen[num - k] + seen[num + k]
             seen[num] += 1
         return count
+        '''
 
         '''
         Original
