@@ -16,4 +16,7 @@ class Solution(object):
             if num == fq:
                 lucky.append(num)
         
-        return max(lucky) if lucky else -1
+        if len(lucky) == 0:
+            return -1
+        else:
+            return max(lucky)
