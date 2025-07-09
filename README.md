@@ -52,6 +52,7 @@ Let's grow together.
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
