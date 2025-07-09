@@ -51,6 +51,7 @@ Let's grow together.
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -72,6 +73,7 @@ Let's grow together.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -81,6 +83,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
