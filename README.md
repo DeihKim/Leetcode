@@ -53,6 +53,7 @@ Let's grow together.
 | [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/DeihKim/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1039-find-the-town-judge](https://github.com/DeihKim/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -79,6 +80,7 @@ Let's grow together.
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/DeihKim/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1039-find-the-town-judge](https://github.com/DeihKim/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -192,4 +194,8 @@ Let's grow together.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/DeihKim/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
