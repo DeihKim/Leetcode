@@ -50,6 +50,7 @@ Let's grow together.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeihKim/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -164,6 +165,7 @@ Let's grow together.
 | ------- |
 | [0455-assign-cookies](https://github.com/DeihKim/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/DeihKim/Leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
