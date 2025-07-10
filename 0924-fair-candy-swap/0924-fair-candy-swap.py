@@ -5,8 +5,9 @@ class Solution(object):
         :type bobSizes: List[int]
         :rtype: List[int]
         """
-        diff = (sum(aliceSizes) - sum(bobSizes)) /2
+        diff = (sum(aliceSizes) - sum(bobSizes)) // 2
         aliceSizes = set(aliceSizes)
-        for b in set(bobSizes):
+
+        for b in bobSizes:
             if b + diff in aliceSizes:
-                return [b + diff, b]
+                return (b + diff, b)
