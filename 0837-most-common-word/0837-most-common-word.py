@@ -5,6 +5,7 @@ class Solution(object):
         :type banned: List[str]
         :rtype: str
         """
+        banned = set(banned)
         words = re.findall(r'\w+', paragraph.lower())
         freqncy = Counter(words)
         for word, _ in freqncy.most_common():
