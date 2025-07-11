@@ -1,9 +1,31 @@
 class Solution(object):
+    def count(self, word):
+        freqncy = [0] * 26
+        for ch in word:
+            freqncy[ord(ch) - ord('a')] += 1
+        return freqncy
+    
+    def intersection(self, freq1, freq2):
+        return [min(f1, f2) for f1, f2 in zip(freq1, freq2)]
+    
     def commonChars(self, words):
         """
         :type words: List[str]
         :rtype: List[str]
         """
+        last = self.count(words[0])
+
+        for word in words[1:]:
+            last = self.intersection(last, self.count(word))
+        
+        res = []
+        for i in range(26):
+            res.extend([chr(i + ord('a'))] * last[i])
+
+        return res
+
+        '''
+        Original
         def findNumchar(string):
             num_char = {}
             for ch in string:
@@ -27,3 +49,4 @@ class Solution(object):
         for ch, count in num_char.items():
             res = sum([[ch] * count], res)
         return res
+        '''
