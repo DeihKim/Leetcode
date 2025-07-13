@@ -5,6 +5,14 @@ class Solution(object):
         :type nums: List[List[int]]
         :rtype: List[int]
         """
+        res = set(nums[0])
+        for i in range(1, len(nums)):
+            res &= set(nums[i])
+        res = list(res)
+        res.sort()
+        return res
+        '''
+        Original
         res = []
         arr = len(nums)
         nums = Counter(sum(nums, []))
@@ -12,3 +20,4 @@ class Solution(object):
             if nums[num] == arr:
                 res.append(num)
         return sorted(res)
+        '''
