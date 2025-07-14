@@ -63,6 +63,7 @@ Let's grow together.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -188,6 +189,7 @@ Let's grow together.
 | [0965-unique-email-addresses](https://github.com/DeihKim/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/DeihKim/Leetcode/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -227,6 +229,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
