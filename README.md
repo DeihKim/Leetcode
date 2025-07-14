@@ -104,6 +104,7 @@ Let's grow together.
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
+| [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -196,6 +197,7 @@ Let's grow together.
 | [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
+| [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
