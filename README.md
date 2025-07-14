@@ -62,6 +62,7 @@ Let's grow together.
 | [1168-duplicate-zeros](https://github.com/DeihKim/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
@@ -141,6 +142,7 @@ Let's grow together.
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1137-height-checker](https://github.com/DeihKim/Leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -163,6 +165,7 @@ Let's grow together.
 | [0349-intersection-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeihKim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -210,6 +213,7 @@ Let's grow together.
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0961-long-pressed-name](https://github.com/DeihKim/Leetcode/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/DeihKim/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
 ## Greedy
