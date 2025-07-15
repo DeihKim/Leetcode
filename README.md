@@ -66,6 +66,7 @@ Let's grow together.
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeihKim/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
