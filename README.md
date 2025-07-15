@@ -160,6 +160,7 @@ Let's grow together.
 | ------- |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -244,10 +245,12 @@ Let's grow together.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 ## Graph
 |  |
 | ------- |
@@ -256,4 +259,8 @@ Let's grow together.
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/DeihKim/Leetcode/tree/master/1137-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
