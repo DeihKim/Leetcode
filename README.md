@@ -204,6 +204,7 @@ Let's grow together.
 | [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
