@@ -184,6 +184,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeihKim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/DeihKim/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DeihKim/Leetcode/tree/master/0344-reverse-string) |
