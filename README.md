@@ -146,6 +146,7 @@ Let's grow together.
 | [1137-height-checker](https://github.com/DeihKim/Leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1970-sorting-the-sentence](https://github.com/DeihKim/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -203,6 +204,7 @@ Let's grow together.
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
 | [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1970-sorting-the-sentence](https://github.com/DeihKim/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/DeihKim/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
