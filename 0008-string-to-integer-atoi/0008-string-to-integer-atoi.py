@@ -4,6 +4,36 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        maxInt = 2**31 - 1
+        minInt = -2**31
+
+        i = 0
+        n = len(s)
+
+        while i < n and s[i] == ' ':
+            i += 1
+        
+        if i == n:
+            return 0
+        
+        sign = 1
+        if i < n and s[i] == '+':
+            i += 1
+        elif i < n and s[i] == '-':
+            sign = -1
+            i += 1
+        
+        res = 0
+        while i < n and s[i].isdigit():
+            digit = int(s[i])
+            if res > (maxInt - digit) // 10:
+                return maxInt if sign == 1 else minInt
+            res = res * 10 + digit
+            i += 1
+
+        return sign * res
+
+        '''
         s = s.strip()
         if not s:
             return 0
@@ -23,3 +53,4 @@ class Solution(object):
             i += 1
 
         return sign * res
+        '''
