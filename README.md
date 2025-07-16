@@ -162,6 +162,7 @@ Let's grow together.
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
+| [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -201,6 +202,7 @@ Let's grow together.
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
 | [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -228,6 +230,7 @@ Let's grow together.
 | [0455-assign-cookies](https://github.com/DeihKim/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/DeihKim/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
