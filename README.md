@@ -35,6 +35,7 @@ Let's grow together.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/DeihKim/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DeihKim/Leetcode/tree/master/0217-contains-duplicate) |
@@ -192,6 +193,7 @@ Let's grow together.
 | [0008-string-to-integer-atoi](https://github.com/DeihKim/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DeihKim/Leetcode/tree/master/0344-reverse-string) |
@@ -277,4 +279,8 @@ Let's grow together.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
