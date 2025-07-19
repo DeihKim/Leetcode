@@ -79,6 +79,7 @@ Let's grow together.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -116,6 +117,7 @@ Let's grow together.
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
@@ -153,6 +155,7 @@ Let's grow together.
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
