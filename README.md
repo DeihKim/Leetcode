@@ -169,6 +169,7 @@ Let's grow together.
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
