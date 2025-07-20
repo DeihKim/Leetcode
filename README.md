@@ -197,6 +197,7 @@ Let's grow together.
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DeihKim/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DeihKim/Leetcode/tree/master/0344-reverse-string) |
@@ -286,4 +287,8 @@ Let's grow together.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DeihKim/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
