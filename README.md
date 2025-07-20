@@ -172,6 +172,7 @@ Let's grow together.
 | [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/DeihKim/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DeihKim/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
