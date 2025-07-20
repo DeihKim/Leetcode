@@ -175,6 +175,7 @@ Let's grow together.
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
