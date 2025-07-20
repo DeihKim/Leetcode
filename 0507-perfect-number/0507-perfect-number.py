@@ -7,11 +7,9 @@ class Solution(object):
         if num < 2:
             return False
         sum = 1
-        i = 2
-        while i * i <= num:
+        for i in range(2, int(num**0.5) + 1):
             if num % i == 0:
                 sum += i
                 if i * i != num:
                     sum += num // i
-            i += 1
         return sum == num
