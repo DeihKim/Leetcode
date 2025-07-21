@@ -226,6 +226,7 @@ Let's grow together.
 | [1904-second-largest-digit-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/DeihKim/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/DeihKim/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -263,6 +264,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2386-min-max-game](https://github.com/DeihKim/Leetcode/tree/master/2386-min-max-game) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
