@@ -4,6 +4,13 @@ class Solution(object):
         :type num: str
         :rtype: bool
         """
+        for i in range(len(num)):
+            if num.count(str(i)) != int(num[i]):
+                return False
+        return True
+        
+        '''
+        Original
         fq = {}
         for ch in num:
             digit = int(ch)
@@ -20,3 +27,4 @@ class Solution(object):
                 return False
     
         return True
+        '''
