@@ -115,6 +115,7 @@ Let's grow together.
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DeihKim/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
@@ -131,6 +132,7 @@ Let's grow together.
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeihKim/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DeihKim/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ Let's grow together.
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/DeihKim/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeihKim/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DeihKim/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
