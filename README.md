@@ -83,6 +83,7 @@ Let's grow together.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Let's grow together.
 | [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
