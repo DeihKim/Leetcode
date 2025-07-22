@@ -179,6 +179,7 @@ Let's grow together.
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -265,6 +266,7 @@ Let's grow together.
 | ------- |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/DeihKim/Leetcode/tree/master/2386-min-max-game) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
