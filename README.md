@@ -78,6 +78,7 @@ Let's grow together.
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
+| [2639-separate-the-digits-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -268,6 +269,7 @@ Let's grow together.
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/DeihKim/Leetcode/tree/master/2386-min-max-game) |
+| [2639-separate-the-digits-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/DeihKim/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DeihKim/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## String Matching
