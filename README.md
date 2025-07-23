@@ -56,6 +56,7 @@ Let's grow together.
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0932-monotonic-array](https://github.com/DeihKim/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/DeihKim/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/DeihKim/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/DeihKim/Leetcode/tree/master/1044-find-common-characters) |
