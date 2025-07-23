@@ -4,24 +4,24 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        even = []
-        odd = []
+        evenIv = []
+        oddIv = []
         for i in range(len(nums)):
             if i % 2 == 0:
-                even.append(nums[i])
+                evenIv.append(nums[i])
             else:
-                odd.append(nums[i])
-        even.sort()
-        odd.sort(reverse = True)
+                oddIv.append(nums[i])
+        evenIv.sort()
+        oddIv.sort(reverse = True)
 
         evenIndex = 0
         oddIndex = 0
         for i in range(len(nums)):
             if i % 2 == 0:
-                nums[i] = even[evenIndex]
+                nums[i] = evenIv[evenIndex]
                 evenIndex += 1
             else:
-                nums[i] = odd[oddIndex]
+                nums[i] = oddIv[oddIndex]
                 oddIndex += 1
         return nums
 
