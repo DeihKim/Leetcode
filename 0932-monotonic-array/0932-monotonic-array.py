@@ -4,6 +4,25 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
+        def increasing(nums):
+            res = -float('inf')
+            for n in nums:
+                if n < res:
+                    return False
+                res = n
+            return True
+        
+        def decreasing(nums):
+            res = float('inf')
+            for n in nums:
+                if n > res:
+                    return False
+                res = n
+            return True
+        
+        return increasing(nums) or decreasing(nums)
+        
+        '''
         increasing = True
         decreasing = True
 
@@ -15,3 +34,4 @@ class Solution(object):
             if not increasing and not decreasing:
                 break
         return increasing or decreasing
+        '''
