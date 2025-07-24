@@ -4,6 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        res = [0 for i in nums]
+        evenIndex = 0
+        oddIndex = 1
+        for num in nums:
+            if num % 2 == 0:
+                res[evenIndex] = num
+                evenIndex += 2
+            else:
+                res[oddIndex] = num
+                oddIndex += 2
+        return res
+    
+        '''
+        Original
         even = []
         odd = []
         for num in nums:
@@ -22,3 +36,4 @@ class Solution(object):
                 res.append(odd[oddIndex])
                 oddIndex += 1
         return res
+        '''
