@@ -169,6 +169,7 @@ Let's grow together.
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/DeihKim/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1970-sorting-the-sentence](https://github.com/DeihKim/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/DeihKim/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/DeihKim/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DeihKim/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -326,4 +327,8 @@ Let's grow together.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeihKim/Leetcode/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/DeihKim/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
