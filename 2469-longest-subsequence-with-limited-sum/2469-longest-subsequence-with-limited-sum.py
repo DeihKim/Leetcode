@@ -6,6 +6,20 @@ class Solution(object):
         :rtype: List[int]
         """
         nums.sort()
+        total = [0] * len(nums)
+        total[0] = nums[0]
+        for i in range(1, len(nums)):
+            total[i] = total[i - 1] + nums[i]
+        
+        res = []
+        for query in queries:
+            index = bisect.bisect(total, query)
+            res.append(index)
+        return res
+
+        '''
+        original
+        nums.sort()
         total = []
         sum = 0
         for num in nums:
@@ -22,3 +36,4 @@ class Solution(object):
                     break
             ans.append(count)
         return ans
+        '''
