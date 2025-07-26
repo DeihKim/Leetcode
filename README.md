@@ -59,6 +59,7 @@ Let's grow together.
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/DeihKim/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/DeihKim/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/DeihKim/Leetcode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/DeihKim/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/DeihKim/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/DeihKim/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -205,6 +206,7 @@ Let's grow together.
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/DeihKim/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DeihKim/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0944-smallest-range-i](https://github.com/DeihKim/Leetcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/DeihKim/Leetcode/tree/master/1289-day-of-the-week) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeihKim/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
