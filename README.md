@@ -186,6 +186,7 @@ Let's grow together.
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/DeihKim/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1970-sorting-the-sentence](https://github.com/DeihKim/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeihKim/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeihKim/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeihKim/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/DeihKim/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/DeihKim/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -217,6 +218,7 @@ Let's grow together.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeihKim/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeihKim/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeihKim/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -311,6 +313,7 @@ Let's grow together.
 | [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/DeihKim/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeihKim/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DeihKim/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
