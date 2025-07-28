@@ -5,6 +5,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        freq = Counter(nums)
+        return sorted(nums, key = lambda x : (freq[x], -x))
+        '''
         freq = Counter(nums).most_common()
         freq.sort(key = lambda x: x[0], reverse = True)
         freq.sort(key = lambda x: x[1])
@@ -15,3 +18,4 @@ class Solution(object):
             res.extend([n] * f)
 
         return res
+        '''
