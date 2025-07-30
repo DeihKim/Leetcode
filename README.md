@@ -122,6 +122,7 @@ Let's grow together.
 | [0290-word-pattern](https://github.com/DeihKim/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeihKim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/DeihKim/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -159,6 +160,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeihKim/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DeihKim/Leetcode/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/DeihKim/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DeihKim/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -272,6 +274,7 @@ Let's grow together.
 | [0290-word-pattern](https://github.com/DeihKim/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DeihKim/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeihKim/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/DeihKim/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/DeihKim/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeihKim/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
