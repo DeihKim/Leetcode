@@ -235,6 +235,7 @@ Let's grow together.
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2752-sum-multiples](https://github.com/DeihKim/Leetcode/tree/master/2752-sum-multiples) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/DeihKim/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeihKim/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
