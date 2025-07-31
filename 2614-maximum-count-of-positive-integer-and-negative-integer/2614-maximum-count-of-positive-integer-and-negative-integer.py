@@ -4,6 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        neg = bisect.bisect_left(nums, 0)
+        pos = len(nums) - bisect.bisect_right(nums, 0)
+        return max(pos, neg)
+
+        '''
         pos = 0
         neg = 0
         for num in nums:
@@ -13,3 +18,4 @@ class Solution(object):
                 neg += 1
         
         return pos if pos >= neg else neg
+        '''
