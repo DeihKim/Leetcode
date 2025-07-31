@@ -138,6 +138,7 @@ Let's grow together.
 | [1297-maximum-number-of-balloons](https://github.com/DeihKim/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/DeihKim/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeihKim/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeihKim/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -221,6 +222,7 @@ Let's grow together.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeihKim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DeihKim/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/DeihKim/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/DeihKim/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
@@ -294,6 +296,7 @@ Let's grow together.
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/DeihKim/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/DeihKim/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeihKim/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/DeihKim/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1524-string-matching-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/DeihKim/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/DeihKim/Leetcode/tree/master/1547-destination-city) |
