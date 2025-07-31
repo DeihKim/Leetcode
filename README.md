@@ -53,6 +53,7 @@ Let's grow together.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeihKim/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/DeihKim/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/DeihKim/Leetcode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DeihKim/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/DeihKim/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/DeihKim/Leetcode/tree/master/0890-lemonade-change) |
@@ -256,6 +257,7 @@ Let's grow together.
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeihKim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/DeihKim/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeihKim/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
