@@ -12,4 +12,4 @@ class Solution(object):
             elif num < 0:
                 neg += 1
         
-        return max(pos, neg)
+        return pos if pos >= neg else neg
