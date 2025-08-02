@@ -73,6 +73,7 @@ Let's grow together.
 | [1392-find-the-difference-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeihKim/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeihKim/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeihKim/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeihKim/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -262,6 +263,7 @@ Let's grow together.
 | [0792-binary-search](https://github.com/DeihKim/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/DeihKim/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DeihKim/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeihKim/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DeihKim/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeihKim/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -412,4 +414,8 @@ Let's grow together.
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeihKim/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeihKim/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
