@@ -98,6 +98,7 @@ Let's grow together.
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeihKim/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DeihKim/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeihKim/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
@@ -159,6 +160,7 @@ Let's grow together.
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DeihKim/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/DeihKim/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DeihKim/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2634-minimum-common-value](https://github.com/DeihKim/Leetcode/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -181,6 +183,7 @@ Let's grow together.
 | [2372-rearrange-characters-to-make-target-string](https://github.com/DeihKim/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DeihKim/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/DeihKim/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DeihKim/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeihKim/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/DeihKim/Leetcode/tree/master/3324-split-the-array) |
 ## Divide and Conquer
@@ -250,6 +253,7 @@ Let's grow together.
 | [2032-largest-odd-number-in-string](https://github.com/DeihKim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeihKim/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DeihKim/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DeihKim/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DeihKim/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/DeihKim/Leetcode/tree/master/2630-alternating-digit-sum) |
