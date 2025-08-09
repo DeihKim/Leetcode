@@ -291,6 +291,7 @@ Let's grow together.
 | [0191-number-of-1-bits](https://github.com/DeihKim/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/DeihKim/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DeihKim/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -412,6 +413,7 @@ Let's grow together.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/DeihKim/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/DeihKim/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
 ## Trie
