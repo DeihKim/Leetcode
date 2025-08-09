@@ -246,6 +246,7 @@ Let's grow together.
 | [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/DeihKim/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/DeihKim/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DeihKim/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/DeihKim/Leetcode/tree/master/0944-smallest-range-i) |
@@ -439,6 +440,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DeihKim/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/DeihKim/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
