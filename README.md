@@ -242,6 +242,7 @@ Let's grow together.
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
@@ -286,6 +287,7 @@ Let's grow together.
 | [0136-single-number](https://github.com/DeihKim/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DeihKim/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeihKim/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -436,6 +438,7 @@ Let's grow together.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/DeihKim/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
