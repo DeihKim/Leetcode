@@ -294,6 +294,7 @@ Let's grow together.
 | [0338-counting-bits](https://github.com/DeihKim/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DeihKim/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/DeihKim/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeihKim/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
