@@ -4,8 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
+        x = n ^ (n >> 1)
+        return x & (x + 1) == 0
+
+        '''
+        Original
         n = str(bin(n))
         for i in range(len(n) - 1):
             if n[i] == n[i + 1]:
                 return False
         return True
+        '''
