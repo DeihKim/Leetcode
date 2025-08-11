@@ -241,6 +241,7 @@ Let's grow together.
 | [0007-reverse-integer](https://github.com/DeihKim/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
@@ -286,6 +287,7 @@ Let's grow together.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DeihKim/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DeihKim/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeihKim/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -306,6 +308,7 @@ Let's grow together.
 | [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeihKim/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/DeihKim/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DeihKim/Leetcode/tree/master/0290-word-pattern) |
@@ -379,6 +382,7 @@ Let's grow together.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeihKim/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
