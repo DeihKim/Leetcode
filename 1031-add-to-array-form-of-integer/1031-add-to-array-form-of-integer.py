@@ -5,6 +5,18 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+        i = len(num) - 1
+        res = []
+        while i >= 0 or k > 0:
+            if i >= 0:
+                k += num[i]
+                i -= 1
+            res.append(k % 10)
+            k //= 10
+        return res[::-1]
+
+        '''
+        Original
         num1 = ''
         for digit in num:
             num1 += str(digit)
@@ -13,3 +25,4 @@ class Solution(object):
         for digit in total:
             res.append(int(digit))
         return res
+        '''
