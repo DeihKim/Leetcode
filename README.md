@@ -252,6 +252,7 @@ Let's grow together.
 | [0292-nim-game](https://github.com/DeihKim/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DeihKim/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeihKim/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/DeihKim/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DeihKim/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/DeihKim/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/DeihKim/Leetcode/tree/master/0944-smallest-range-i) |
@@ -320,6 +321,7 @@ Let's grow together.
 | [0345-reverse-vowels-of-a-string](https://github.com/DeihKim/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DeihKim/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeihKim/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/DeihKim/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/DeihKim/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeihKim/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0837-most-common-word](https://github.com/DeihKim/Leetcode/tree/master/0837-most-common-word) |
@@ -387,6 +389,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/DeihKim/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DeihKim/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeihKim/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
