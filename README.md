@@ -243,6 +243,7 @@ Let's grow together.
 | [0007-reverse-integer](https://github.com/DeihKim/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/DeihKim/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeihKim/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/DeihKim/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DeihKim/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
@@ -313,6 +314,7 @@ Let's grow together.
 | [0014-longest-common-prefix](https://github.com/DeihKim/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeihKim/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeihKim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/DeihKim/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/DeihKim/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DeihKim/Leetcode/tree/master/0242-valid-anagram) |
@@ -388,6 +390,7 @@ Let's grow together.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DeihKim/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/DeihKim/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/DeihKim/Leetcode/tree/master/0495-teemo-attacking) |
