@@ -246,6 +246,7 @@ Let's grow together.
 | [0043-multiply-strings](https://github.com/DeihKim/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DeihKim/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/DeihKim/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/DeihKim/Leetcode/tree/master/0263-ugly-number) |
@@ -428,6 +429,7 @@ Let's grow together.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DeihKim/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/DeihKim/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/DeihKim/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/DeihKim/Leetcode/tree/master/1086-divisor-game) |
@@ -465,5 +467,6 @@ Let's grow together.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DeihKim/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/DeihKim/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
