@@ -246,6 +246,7 @@ Let's grow together.
 | [0043-multiply-strings](https://github.com/DeihKim/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DeihKim/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeihKim/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DeihKim/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeihKim/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DeihKim/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DeihKim/Leetcode/tree/master/0231-power-of-two) |
@@ -280,6 +281,7 @@ Let's grow together.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeihKim/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/DeihKim/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/DeihKim/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeihKim/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeihKim/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
