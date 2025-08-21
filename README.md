@@ -107,6 +107,7 @@ Let's grow together.
 | [2639-separate-the-digits-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/DeihKim/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/DeihKim/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/DeihKim/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2902-max-pair-sum-in-an-array](https://github.com/DeihKim/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeihKim/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3324-split-the-array](https://github.com/DeihKim/Leetcode/tree/master/3324-split-the-array) |
@@ -460,6 +461,7 @@ Let's grow together.
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeihKim/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/DeihKim/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
